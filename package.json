@@ -1,5 +1,6 @@
 {
-  "name": "quote-machine",
+  "homepage": "https://github.com/mariagus/grumpygit.git",
+  "name": "grumpygit",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -11,6 +12,8 @@
     "react-scripts": "3.4.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "grumpygit -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
