@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/mariagus/grumpygit.git/static/css/main.5b10db3d.chunk.css",
-    "main.js": "/mariagus/grumpygit.git/static/js/main.d608319a.chunk.js",
-    "main.js.map": "/mariagus/grumpygit.git/static/js/main.d608319a.chunk.js.map",
-    "runtime-main.js": "/mariagus/grumpygit.git/static/js/runtime-main.82ca576c.js",
-    "runtime-main.js.map": "/mariagus/grumpygit.git/static/js/runtime-main.82ca576c.js.map",
-    "static/js/2.6a08d554.chunk.js": "/mariagus/grumpygit.git/static/js/2.6a08d554.chunk.js",
-    "static/js/2.6a08d554.chunk.js.map": "/mariagus/grumpygit.git/static/js/2.6a08d554.chunk.js.map",
-    "index.html": "/mariagus/grumpygit.git/index.html",
-    "precache-manifest.7b977ea8fd68f51c426228d6e00fca25.js": "/mariagus/grumpygit.git/precache-manifest.7b977ea8fd68f51c426228d6e00fca25.js",
-    "service-worker.js": "/mariagus/grumpygit.git/service-worker.js",
-    "static/css/main.5b10db3d.chunk.css.map": "/mariagus/grumpygit.git/static/css/main.5b10db3d.chunk.css.map",
-    "static/js/2.6a08d554.chunk.js.LICENSE.txt": "/mariagus/grumpygit.git/static/js/2.6a08d554.chunk.js.LICENSE.txt",
-    "static/media/grump.png": "/mariagus/grumpygit.git/static/media/grump.adf06b6c.png",
-    "static/media/square.png": "/mariagus/grumpygit.git/static/media/square.8c202a4f.png"
+    "main.css": "/grumpygit/static/css/main.5b10db3d.chunk.css",
+    "main.js": "/grumpygit/static/js/main.9d9f0e05.chunk.js",
+    "main.js.map": "/grumpygit/static/js/main.9d9f0e05.chunk.js.map",
+    "runtime-main.js": "/grumpygit/static/js/runtime-main.ebe8085c.js",
+    "runtime-main.js.map": "/grumpygit/static/js/runtime-main.ebe8085c.js.map",
+    "static/js/2.6a08d554.chunk.js": "/grumpygit/static/js/2.6a08d554.chunk.js",
+    "static/js/2.6a08d554.chunk.js.map": "/grumpygit/static/js/2.6a08d554.chunk.js.map",
+    "index.html": "/grumpygit/index.html",
+    "precache-manifest.a4d76a378b42b922616dc313ce9dad0d.js": "/grumpygit/precache-manifest.a4d76a378b42b922616dc313ce9dad0d.js",
+    "service-worker.js": "/grumpygit/service-worker.js",
+    "static/css/main.5b10db3d.chunk.css.map": "/grumpygit/static/css/main.5b10db3d.chunk.css.map",
+    "static/js/2.6a08d554.chunk.js.LICENSE.txt": "/grumpygit/static/js/2.6a08d554.chunk.js.LICENSE.txt",
+    "static/media/grump.png": "/grumpygit/static/media/grump.adf06b6c.png",
+    "static/media/square.png": "/grumpygit/static/media/square.8c202a4f.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.82ca576c.js",
+    "static/js/runtime-main.ebe8085c.js",
     "static/js/2.6a08d554.chunk.js",
     "static/css/main.5b10db3d.chunk.css",
-    "static/js/main.d608319a.chunk.js"
+    "static/js/main.9d9f0e05.chunk.js"
   ]
 }
