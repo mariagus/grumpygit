@@ -1,10 +1,5 @@
 import React from "react";
 import "./App.css";
-import {
-  EmailShareButton,
-  FacebookShareButton,
-  TwitterShareButton,
-} from "react-share";
 import QuoteGenerator from "./components/QuoteGenerator.js";
 
 function App() {
