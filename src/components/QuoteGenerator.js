@@ -57,8 +57,9 @@ const quoteArr = [
   "Keep chasing your dreams, even if it means making yourself and everyone around you miserable",
   "Nobody cares, so stop worrying! Geez, so self-absorbed!",
   "There, there! You're not a loser. You're just not much of a winner either.",
-  "Sorry, I wasn't listening. You told that story already",
   "That's right, waste more time looking at this stupid page. Your time is worthless anyway.",
+  "I once had a dream, and then I got sober.",
+  "Leave me alone. I need my nap",
 ];
 let randomArr = quoteArr.sort(() => Math.random() - 0.5);
 
