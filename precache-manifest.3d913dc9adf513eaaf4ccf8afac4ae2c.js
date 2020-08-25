@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "28be8e90bf4a9bc438c2158eb960743c",
+    "revision": "5478414c5efc5c72b8e89af903f65be5",
     "url": "/grumpygit/index.html"
   },
   {
-    "revision": "69af7880faa451a3f655",
+    "revision": "dd186ea4e14346f91552",
     "url": "/grumpygit/static/css/main.fedc04e7.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/grumpygit/static/js/2.6a08d554.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "69af7880faa451a3f655",
-    "url": "/grumpygit/static/js/main.d80d6dad.chunk.js"
+    "revision": "dd186ea4e14346f91552",
+    "url": "/grumpygit/static/js/main.deb1f2ba.chunk.js"
   },
   {
     "revision": "f3d21f6296268cb799b1",

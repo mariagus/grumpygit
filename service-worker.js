@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/grumpygit/precache-manifest.92abf49ec3d179174abcec7de8ac4720.js"
+  "/grumpygit/precache-manifest.3d913dc9adf513eaaf4ccf8afac4ae2c.js"
 );
 
 self.addEventListener('message', (event) => {
