@@ -59,7 +59,7 @@ const quoteArr = [
   "There, there! You're not a loser. You're just not much of a winner either.",
   "That's right, waste more time looking at this stupid page. Your time is worthless anyway.",
   "I once had a dream, and then I got sober.",
-  "Leave me alone. I need my nap",
+  "Leave me alone! I need my nap.",
 ];
 let randomArr = quoteArr.sort(() => Math.random() - 0.5);
 
