@@ -60,6 +60,7 @@ const quoteArr = [
   "That's right, waste more time looking at this stupid page. Your time is worthless anyway.",
   "I once had a dream, and then I got sober.",
   "Leave me alone! I need my nap.",
+  "Working is for fools. I just found myself a rich lady friend.",
 ];
 let randomArr = quoteArr.sort(() => Math.random() - 0.5);
 
