@@ -53,8 +53,8 @@ function QuoteGenerator() {
   );
 }
 const quoteArr = [
-  "Just keep telling yourself you're special, like the other seven billion",
-  "Keep chasing your dreams, even if it means making yourself and everyone around you miserable",
+  "Just keep telling yourself you're special, like the other seven billion.",
+  "Keep chasing your dreams, even if it means making yourself and everyone around you miserable.",
   "Nobody cares, so stop worrying! Geez, so self-absorbed!",
   "There, there! You're not a loser. You're just not much of a winner either.",
   "That's right, waste more time looking at this stupid page. Your time is worthless anyway.",
