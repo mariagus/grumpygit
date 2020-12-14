@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a8677adf00a8775dc82db3bdb060c468",
+    "revision": "df03c8a9b7c7b0a10b07be27f38df431",
     "url": "/grumpygit/index.html"
   },
   {
-    "revision": "25d96b221e40727c1b15",
-    "url": "/grumpygit/static/css/main.fedc04e7.chunk.css"
+    "revision": "781759969557a4efc5dd",
+    "url": "/grumpygit/static/css/main.e2e35675.chunk.css"
   },
   {
     "revision": "8e8b64662f3cb091d245",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/grumpygit/static/js/2.6a08d554.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "25d96b221e40727c1b15",
-    "url": "/grumpygit/static/js/main.b9053bfc.chunk.js"
+    "revision": "781759969557a4efc5dd",
+    "url": "/grumpygit/static/js/main.47b11163.chunk.js"
   },
   {
     "revision": "f3d21f6296268cb799b1",
@@ -28,7 +28,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/grumpygit/static/media/grump.adf06b6c.png"
   },
   {
-    "revision": "8c202a4fa8bea0fd785be447af6e86e8",
-    "url": "/grumpygit/static/media/square.8c202a4f.png"
+    "revision": "7958c58f336c8f72519132f51ff3155b",
+    "url": "/grumpygit/static/media/square.7958c58f.png"
   }
 ]);
